@@ -5,4 +5,4 @@ Repositório realizado através da aula prática, da Digital Innovation One - ht
 
 Projeto integrado ao Bootcamp HTML Web Developer ministrado por @felipeAguiarCode, feito por meio de 💻️Visual Studio Code
 
-https://vamansur.github.io-Recriando-a-interface-do-Netflix
+https://vamansur.github.io/Recriando-a-interface-do-Netflix/
